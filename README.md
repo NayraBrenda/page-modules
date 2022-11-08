@@ -1,7 +1,7 @@
 ## Módulos
 
 ### 1. Este projeto contém módulos de uma página animados com HTML, CSS e JavaScript puro. 
-### 2. Foi realizada a manipulação de classes CSS com JavaScript através de função, além de efeitos realizados com Hover e Transition. 
+### 2. Foi realizada a manipulação de classes CSS com JavaScript através de função, além de animações realizadas com Hover e Transition. 
 
 ---------------------------------------------------
 
